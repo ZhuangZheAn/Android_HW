@@ -1,0 +1,4 @@
+Question 1 : The counter is reset to 0, and the EditText no longer contains the text you entered.
+Question 2 : Android shuts down your Activity by calling onPause(), onStop(), and onDestroy(), and then starts it over again, calling onCreate(), onStart(), and onResume().
+Question 3 : onSaveInstanceState() is called before the onStop() method.
+Question 4 : onPause() or onStop()
